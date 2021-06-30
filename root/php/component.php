@@ -23,5 +23,3 @@ function buttonElement($btnId, $styleclass, $text, $name, $attr){
 
     echo $btn;
 }
-
-?>

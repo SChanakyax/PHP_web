@@ -40,5 +40,3 @@ function createDB(){
         echo "Error creating db" .mysqli_error($con);
     }
 }
-
-?>
